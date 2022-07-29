@@ -1,0 +1,14 @@
+
+ -> gww
+
+ -> mee
+
+
+1. find the permutation of given pattern in numeric list        
+
+2. find the permutation of given words in numeric list
+
+3. compare the list between pattern and words
+
+
+
