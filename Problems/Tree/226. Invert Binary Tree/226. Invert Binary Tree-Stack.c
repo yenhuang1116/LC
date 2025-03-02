@@ -15,11 +15,12 @@
  * @version 1.0
  * 
  * @details
- * 本程式提供了一個基於堆疊 (Stack) 實作，包括：
+ * 本程式提供了一個基於鏈結串列(Linked List)的堆疊 (Stack) 實作，包括：
  * - 入堆疊 (push)
  * - 出堆疊 (pop)
  * - 檢查堆疊是否為空 (isEmpty)
- * - 深度優先搜索(Depth-First Search)
+ * - #深度優先搜索(Depth-First Search)
+ * - #Stack-Linked List
  */
 //---------------------------------------------
 

@@ -15,11 +15,12 @@
  * @version 1.0
  * 
  * @details
- * 本程式提供了一個基於佇列 (Queue) 實作，包括：
+ * 本程式提供了一個基於鏈結串列(Linked List)的佇列 (Queue) 實作，包括：
  * - 入佇列 (enqueue)
  * - 出佇列 (dequeue)
  * - 檢查佇列是否為空 (isEmpty)
- * - 廣度優先搜尋(Breadth-First Search)
+ * - #廣度優先搜尋(Breadth-First Search)
+ * - #Queue-Linked List
  */
 //---------------------------------------------
 
