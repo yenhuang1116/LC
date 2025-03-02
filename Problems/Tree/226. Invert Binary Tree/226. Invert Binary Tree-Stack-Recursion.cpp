@@ -9,6 +9,20 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+//---------------------------------------------
+/**
+ * @file    226. Invert Binary Tree-Stack-Recursion
+ * @brief   使用遞迴 (Implementation using Recursion)
+ * @author  BY Huang
+ * @date    2025-03-02
+ * @version 1.0
+ * 
+ * @details
+ * 本程式提供了一個基於遞迴 (Recursion) 實作，包括：
+ * - invertTree
+ */
+//---------------------------------------------
+
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {

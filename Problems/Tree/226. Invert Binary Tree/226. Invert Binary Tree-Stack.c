@@ -1,3 +1,27 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     struct TreeNode *left;
+ *     struct TreeNode *right;
+ * };
+ */
+//---------------------------------------------
+/**
+ * @file    226. Invert Binary Tree-Stack.c
+ * @brief   使用陣列實作堆疊 (Stack implementation using array)
+ * @author  BY Huang
+ * @date    2025-03-02
+ * @version 1.0
+ * 
+ * @details
+ * 本程式提供了一個基於陣列的堆疊 (Stack) 實作，包括：
+ * - 入棧 (push)
+ * - 出棧 (pop)
+ * - 檢查堆疊是否為空 (isEmpty)
+ */
+//---------------------------------------------
+
 struct stack{
     struct TreeNode* node;
     struct stack* next;
